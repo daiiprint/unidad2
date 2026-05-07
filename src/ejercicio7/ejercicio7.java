@@ -9,7 +9,7 @@ public class ejercicio7 {
 
 		String nomProducto;
 		int cantProducto;
-
+		
 		System.out.println("Ingrese nombre de un producto: ");
 		nomProducto = entrada.nextLine();
 		while (nomProducto.isBlank()) {
